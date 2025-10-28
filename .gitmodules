@@ -1,0 +1,6 @@
+[submodule "AoC2023-Haskell"]
+  path = AoC2023-Haskell
+  url = https://github.com/massimopavoni/AoC2023-Haskell
+[submodule "AoC2024-Rust"]
+  path = AoC2024-Rust
+  url = https://github.com/massimopavoni/AoC2024-Rust
