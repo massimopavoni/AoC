@@ -1,3 +1,6 @@
+[submodule "AoC2015-C"]
+  path = AoC2015-C
+  url = https://github.com/massimopavoni/AoC2015-C
 [submodule "AoC2023-Haskell"]
   path = AoC2023-Haskell
   url = https://github.com/massimopavoni/AoC2023-Haskell
