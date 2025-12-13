@@ -1,3 +1,7 @@
+[submodule "aoc-core-rs"]
+  path = aoc-core-rs
+  url = https://github.com/massimopavoni/aoc-core-rs
+
 [submodule "AoC2015-C"]
   path = AoC2015-C
   url = https://github.com/massimopavoni/AoC2015-C
